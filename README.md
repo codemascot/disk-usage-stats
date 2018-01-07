@@ -55,6 +55,9 @@ One unit test has been provided for the accessibility for different user role fo
 - Symentic version controll.
 - Unit tested.
 
+## Run Composer
+Though it's a Composer package, you don't need to run `composer install` cause I included the `vendor` directory with this repository. 
+
 ## Workflow ( In Steps )
 - [x] **Step 1:** Designing structure
 - [x] **Step 2:** Creating Skeleton or Boilerplate Setup
@@ -72,4 +75,4 @@ As I said earlier that, later I couldn't figure out the best way to save this da
 ## Acknowledgement
 
 - [WooCommerce](https://github.com/woocommerce/woocommerce): I inherited the dynamic admin page procedure from here. 
-- This [DiskStatus](http://pmav.eu/stuff/php-disk-status/source.html) cass
+- This [DiskStatus](http://pmav.eu/stuff/php-disk-status/source.html) class
