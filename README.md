@@ -55,7 +55,7 @@ One unit test has been provided for the accessibility for different user role fo
 - Symentic version controll.
 - Unit tested.
 
-## Run Composer
+## Composer Issue
 Though it's a Composer package, you don't need to run `composer install` cause I included the `vendor` directory with this repository. 
 
 ## Workflow ( In Steps )
