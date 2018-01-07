@@ -1,0 +1,24 @@
+{
+	"name": "thedramatist/disk-usage-stats",
+	"description": "This is a WordPress plugin developed for showing disk usage statistics.",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"license": "GPL-2.0",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Khan M Rashedun-Naby",
+			"email": "naby88@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"TheDramatist\\DiskUsageStats\\": "src/"
+		}
+	}
+}
